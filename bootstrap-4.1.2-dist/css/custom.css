@@ -1,0 +1,55 @@
+body{
+    font-family:roboto;
+    background-color: #f4f4f4;
+}
+
+.st{
+    color:#005a7f !important;
+}
+.jumbotron{
+    background-image: url("../images/Making-Boards-Work_1536x1536_Original.jpg")
+}
+.card{
+    border: none;
+}
+.ser{
+    height: 60px;
+    width: 60px;
+}
+.welltext{
+    margin: 150px auto;
+    font-size: xx-large;
+}
+.carousel-img{
+    width: 100%;
+    height: 500px;
+}
+.card-text-lorem{
+    color: #696969;
+}
+.test-cour{
+    width: 300PX;
+    margin-bottom: 40px;
+    
+}
+.page-footer{
+    background-color:#005a7f;
+}
+.footer-copyright{
+    background-color: #014d6d;
+}
+.foo li{
+    list-style: none;
+}
+.foo li a{
+    color:white;
+}
+footer{
+    color: white;
+}
+.navbar{
+    
+}
+video{
+    
+}
